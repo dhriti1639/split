@@ -3,8 +3,7 @@ import java.io.*;
 /**
 * This class implements the division of file.
 *
-* @author Abhishek Baru
-* @version 1.0
+* @author Dhriti Sharma 1.0
 * @since 07-04-2018
 */
 public class Cutter{
